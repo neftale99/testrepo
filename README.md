@@ -1,2 +1,2 @@
 # testrepo
-first work
+first works
